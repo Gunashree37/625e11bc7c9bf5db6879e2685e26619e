@@ -45,18 +45,18 @@ function setup() {
   block16 = new Block(390,155,30,40);
 
   //set 2 for second stand
-  //level one
-  blocks1 = new Block(640,175,30,40);
-  blocks2 = new Block(670,175,30,40);
-  blocks3 = new Block(700,175,30,40);
-  blocks4 = new Block(730,175,30,40);
-  blocks5 = new Block(760,175,30,40);
-  //level two
-  blocks6 = new Block(670,135,30,40);
-  blocks7 = new Block(700,135,30,40);
-  blocks8 = new Block(730,135,30,40);
-  //top
-  blocks9 = new Block(700,95,30,40);
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   //ball holder with slings
   ball = Bodies.circle(50,200,20);
